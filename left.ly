@@ -58,4 +58,18 @@ left = \relative c {
     d, a' fis'2 |
   }
 
+  g,=,4 d' fis2 |
+  fis,4 d' fis2 |
+  e,4 b' e2 |
+  d,4 a' fis'2 |
+
+  g,4 d' fis2 |
+  fis,4 d' fis2 |
+  e,4 d' a e' |
+  d,=, a' e' d |
+  cis d fis a |
+  d,1|
+
+  \bar "|."
+
 }

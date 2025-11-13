@@ -58,4 +58,18 @@ right = \relative c' {
     <d fis d'>1 |
   }
 
+  r2 <a,= b fis'> |
+  r2 <g a d> |
+  r2 <a b fis'>4( g') |
+  r2 <a, cis>4( b) |
+
+  r2 <a b fis'> |
+  r2 <g a d> |
+  <a d fis>4 r <b d g> r |
+  <cis=' fis a>1 |
+  r1 |
+  <e=' fis cis'>1 |
+
+  \bar "|."
+
 }
