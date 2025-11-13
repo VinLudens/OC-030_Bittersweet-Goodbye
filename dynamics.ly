@@ -15,6 +15,9 @@ dynamics = {
   % allow text in the dynamics block to be centered vertically
   % \override TextScript.extra-offset = #'(0 . 1)
 
-  s
+  \repeat volta 2 {
+    s1*40 |
+  }
+  s1*10 |
 
 }
